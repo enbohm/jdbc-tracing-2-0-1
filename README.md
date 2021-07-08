@@ -1,4 +1,4 @@
-# jdbc-tracing-2-0-1 Project
+# jdbc-tracing-2-0-1
 
 Using Quarkus 2.0.1.Final with OpenTracing-JDBC fails with the following stacktrace. Downgrading to 2.0.0.Final everything works.
 
